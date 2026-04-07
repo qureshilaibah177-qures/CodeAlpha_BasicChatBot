@@ -23,8 +23,3 @@ The chatbot interacts with users by responding to predefined inputs such as gree
 - loops
 - functions
 - user input/output
-
-# How to Run
-1. Make sure Python is installed
-2. Download or clone this repository
-3. Run the Python file:
